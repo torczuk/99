@@ -1,0 +1,13 @@
+kdiff3(4832) KXMLGUIClient::setXMLFile: cannot find .rc file "kdiff3_part.rc" for component "kdiff3part" 
+Calling appendChild() on a null node does nothing.
+kdeinit4: preparing to launch /usr/lib/kde4/libkdeinit/libkdeinit4_klauncher.so
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kdeinit4: preparing to launch /usr/lib/kde4/libkdeinit/libkdeinit4_kded4.so
+kdeinit4: preparing to launch /usr/bin/kbuildsycoca4
+kbuildsycoca4 running...
+kdeinit4: preparing to launch /usr/lib/kde4/libkdeinit/libkdeinit4_kconf_update.so
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kdeinit4: preparing to launch /usr/bin/knotify4
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+knotify(4848) KNotify::event: 1  ref= 0
+external diff died, stopping at src/main/scala/com/torczuk/nintynine/Lists.scala.

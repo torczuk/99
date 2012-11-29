@@ -5,7 +5,7 @@ import org.scalatest.junit.JUnitRunner
 
 import org.scalatest.FunSuite
 
-import com.torczuk.nintynine.Lists._
+import com.torczuk.nintynine.Lists.nth
 
 
 @RunWith(classOf[JUnitRunner])
